@@ -1,4 +1,7 @@
-# Git-Practice
+# Re:Coded Bootcamp - Lab 1 (Git)
+
+## Overview
+This first Assignment will be over practicing git commands
 
 ## Instructions
 
