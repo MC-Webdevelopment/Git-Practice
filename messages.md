@@ -1,1 +1,1 @@
-heres my first steps -Ahmad Fadhel
+heres my first steps into git -Ahmad Fadhel
