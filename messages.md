@@ -1,1 +1,1 @@
-hey 
+I know how much you went through, no matter what "I'm ALWAYS PROUD OF YOU :^ "
